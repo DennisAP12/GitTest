@@ -1,7 +1,7 @@
-Hola git
+# Hola git
 
--aprender gut
--aprender html
--aprender css
+- aprender gut
+- aprender html
+- aprender css
 
-Tambien necesitamos *JS*
+si Tambien necesitamos *JS*
